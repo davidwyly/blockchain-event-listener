@@ -1,7 +1,7 @@
 # Ethereum Event Listener (Proof-of-Concept)
 
 ## Description
-This project is an Ethereum Event Listener written in Go and serves as a proof of concept. It connects to an Ethereum client using RPC, subscribes to specific contract event logs, and processes these events as they occur. As a proof of concept, it may not cover all edge cases or be suited for production use without further development and testing.#
+This project is an Ethereum Event Listener written in Go and serves as a proof of concept. It connects to an Ethereum client using RPC, subscribes to specific contract event logs, and processes these events as they occur. As a proof of concept, it will not cover all edge cases or be suited for production use without further development and testing.
 
 ## Example Output
 
@@ -58,3 +58,11 @@ go build
 ```
 go run main.go
 ```
+
+## Disclaimer
+
+This project is provided as a proof of concept and is intended for educational and experimental purposes only. The author(s)/contributor(s) of this project make no guarantees and bear no responsibility for any damage, loss of data, financial losses, or any other types of losses resulting from the direct or indirect use of this software.
+
+This project is not intended for use in a production environment and has not been tested for such use. It may contain bugs, vulnerabilities, or other issues that could be harmful if used in real-world applications. Users are advised to use this software with caution and at their own risk.
+
+By using this software, you acknowledge and agree to this disclaimer. If you do not agree, do not use the software.
