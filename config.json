@@ -1,0 +1,10 @@
+{
+    "websocket_rpc_url": "wss://polygon.api.onfinality.io/public-ws",
+    "chain_id": 137,
+    "contract_address": "0x74dD45dd579caD749f9381D6227e7e02277C944B",
+    "event_signatures": [
+        "Approval(address,address,uint256)",
+        "Transfer(address,address,uint256)"
+    ],
+    "discord_webhook_url": "https://discord.com/api/webhooks/test"
+}
